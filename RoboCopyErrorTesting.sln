@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyProject", "DummyProject\DummyProject.csproj", "{7C3D979D-F5C5-42AA-A058-C042958B35CC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboCopyErrorTesting", "RoboCopyUnitTest\RoboCopyErrorTesting.csproj", "{2418AA0B-A031-40A8-839F-B7C5B40DAB01}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C3D979D-F5C5-42AA-A058-C042958B35CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C3D979D-F5C5-42AA-A058-C042958B35CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C3D979D-F5C5-42AA-A058-C042958B35CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C3D979D-F5C5-42AA-A058-C042958B35CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2418AA0B-A031-40A8-839F-B7C5B40DAB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2418AA0B-A031-40A8-839F-B7C5B40DAB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2418AA0B-A031-40A8-839F-B7C5B40DAB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
